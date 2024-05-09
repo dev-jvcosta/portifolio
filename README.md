@@ -32,5 +32,3 @@
   <a href="https://www.linkedin.com/in/jvmscosta/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=black"</a> 
 </div>
-
-![Snake animation](https://github.com/joaovmscosta/joaovmscosta/blob/output/github-contribution-grid-snake.svg)
