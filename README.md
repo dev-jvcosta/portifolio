@@ -17,7 +17,7 @@
  </div>
 
 <div align="center"><br>
- <img src="https://skillicons.dev/icons?i=html,css,js,sass,figma,xd" /><br><br>
+ <img src="https://skillicons.dev/icons?i=html,css,js,sass,figma,xd,bootstrap,react,ts,vue,wordpress" /><br><br>
 
  <img src="https://skillicons.dev/icons?i=git,vscode,python,mysql" />
 </div><br>
@@ -32,3 +32,5 @@
   <a href="https://www.linkedin.com/in/jvmscosta/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=black"</a> 
 </div>
+
+![Snake animation](https://github.com/joaovmscosta/joaovmscosta/blob/output/github-contribution-grid-snake.svg)
